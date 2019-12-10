@@ -5,6 +5,7 @@ into pure GDScript, if possible.
 
 List of ported classes:
 - [`RemoteTrasform2D`](scene/2d/remote_transform_2d.gd)
+- [`Label`](scene/gui/label.gd)
 
 Based on these classes you can:
 - adapt them to your own needs via script;
