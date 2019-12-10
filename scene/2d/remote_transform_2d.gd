@@ -2,7 +2,7 @@ class_name RemoteTransform2DScripted tool extends Node2D
 
 # port author: Xrayez
 # license: MIT
-# godot version: 2297186cd
+# source: https://github.com/godotengine/godot/blob/c868baf65/scene/2d/remote_transform_2d.cpp
 # diffs: 
 #     - no Transform2D.set_rotation/scale in GDScript yet, so those are replaced
 #       with a more low-level Transform2D API.
