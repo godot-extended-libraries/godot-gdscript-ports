@@ -4,8 +4,9 @@ The purpose of this repository is to translate built-in engine C++ classes back
 into pure GDScript, if possible.
 
 List of ported classes:
-- [`RemoteTrasform2D`](scene/2d/remote_transform_2d.gd)
+- [`ColorRect`](scene/gui/color_rect.gd)
 - [`Label`](scene/gui/label.gd)
+- [`RemoteTrasform2D`](scene/2d/remote_transform_2d.gd)
 
 Based on these classes you can:
 - adapt them to your own needs via script;
